@@ -8,8 +8,9 @@
 <!-- ===================== -->
 <!-- ⌨️ TYPING TERMINAL -->
 <!-- ===================== -->
+<p align="center">
 ![Typing SVG](https://readme-typing-svg.demolab.com?size=28&color=00FF00&background=000000&width=650&lines=Cybersecurity+Focused+CS+Student;Python+%7C+AI+Agentics+Developer;Hackathon+Enthusiast+%F0%9F%94%90)
-
+</p>
 ---
 
 ## 👋 Hi, I'm Amna Noor
