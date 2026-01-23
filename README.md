@@ -2,7 +2,7 @@
 <!-- 🔥 CYBER BANNER 🔥 -->
 <!-- ===================== -->
 <p align="center">
-  <img src="https://github.com/Amna-Noor27/Amna-Noor27/blob/main/banner.png" alt="Cyber Hacker Banner"/>
+  <img src="https://github.com/Amna-Noor27/Amna-Noor27/blob/main/Github-Banner.gif" alt="Cyber Hacker Banner"/>
 </p>
 
 <!-- ===================== -->
